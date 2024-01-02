@@ -2,9 +2,10 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('background.jpg'); 
+    background-image: url('https://datacraze.pl/wp-content/uploads/2017/08/ExpenseTrackerMVP.jpg'); 
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
     color: #333;
   }
   
@@ -14,7 +15,7 @@ body {
     background-color: rgba(5, 61, 135, 0.8);
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(54, 174, 204, 0.2);
+    box-shadow: 0 0 10px rgba(198, 224, 230, 0.2);
   }
   
   h1 {
